@@ -1,6 +1,4 @@
-👋 Hi, I’m @bhavika1304
-👀 I’m interested in Data Science and ML
-😄 Pronouns: She/Her
+👋 Hi, there
 <h1 align="center"I'm Yaswanth Kacharla</h1>
 <h3 align="center">A passionate DataScience and ML from India</h3>
 
